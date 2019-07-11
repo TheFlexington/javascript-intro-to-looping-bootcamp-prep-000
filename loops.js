@@ -19,11 +19,11 @@ function whileLoop(number) {
   console.log(whileLoop());
 }
 
-var f = 0;
+var i = 0;
 
 function incrementVariable() {
-      f = f + 1;
-      return f;
+      i = i + 1;
+      return i;
 }
 
 function doWhileLoop(num) {
